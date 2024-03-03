@@ -123,9 +123,8 @@ function generatePDF() {
 
   pdf.setFont("helvetica", "normal");
 
-  pdf.text("Start Date:"+ startDate, 90, 160);
-  pdf.text("--", 115, 160);
-  pdf.text(endDate, 120, 160);
+  pdf.text("Start Date:"+ startDate + "--" + endDate, 90, 160);
+  
   
   pdf.text(employer, 90, 170);
 
