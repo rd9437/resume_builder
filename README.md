@@ -1,6 +1,9 @@
-Welcome to my Resume Builder! This tool allows users to easily create a professional resume by inputting their data and generating a PDF resume without saving any user data. Below you will find instructions on how to use the Resume Builder:
+# Resume Builder
 
 https://rd9437.github.io/resume_builder/
+
+Welcome to my Resume Builder! This tool allows users to easily create a professional resume by inputting their data and generating a PDF resume without saving any user data. Below you will find instructions on how to use the Resume Builder:
+
 
 **How to Use**
 + **Input Data:** Start by providing your personal and professional information such as name, contact details, education, work experience, skills, etc. Ensure that all the necessary fields are filled out accurately.
