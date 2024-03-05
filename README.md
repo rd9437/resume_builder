@@ -2,14 +2,14 @@ Welcome to my Resume Builder! This tool allows users to easily create a professi
 
 https://rd9437.github.io/resume_builder/
 
-How to Use
-Input Data: Start by providing your personal and professional information such as name, contact details, education, work experience, skills, etc. Ensure that all the necessary fields are filled out accurately.
+**How to Use**
++ **Input Data:** Start by providing your personal and professional information such as name, contact details, education, work experience, skills, etc. Ensure that all the necessary fields are filled out accurately.
 
-Preview: Review your resume layout and formatting to ensure everything looks as expected. Make any necessary adjustments or edits.
++ **Preview:** Review your resume layout and formatting to ensure everything looks as expected. Make any necessary adjustments or edits.
 
-Generate PDF: Once satisfied with your resume, proceed to generate the PDF version. The tool will compile all the provided information into a neatly formatted PDF document.
++ **Generate PDF:** Once satisfied with your resume, proceed to generate the PDF version. The tool will compile all the provided information into a neatly formatted PDF document.
 
-Download: Download your finalized resume PDF file. You can then save it to your device or print it out as needed.
++ **Download:** Download your finalized resume PDF file. You can then save it to your device or print it out as needed.
 
 
 Features
