@@ -12,19 +12,19 @@ https://rd9437.github.io/resume_builder/
 + **Download:** Download your finalized resume PDF file. You can then save it to your device or print it out as needed.
 
 
-Features
-User-Friendly Interface: The Resume Builder features an intuitive interface, making it easy for users to input their data and navigate through the process effortlessly.
+**Features**
++ **User-Friendly Interface:** The Resume Builder features an intuitive interface, making it easy for users to input their data and navigate through the process effortlessly.
 
-Instant PDF Generation: Generate your resume PDF instantly without any delays. The tool ensures a quick turnaround time, allowing users to access their resumes promptly.
++ **Instant PDF Generation:** Generate your resume PDF instantly without any delays. The tool ensures a quick turnaround time, allowing users to access their resumes promptly.
 
-Privacy Assurance: We prioritize user privacy and security. Rest assured that none of the data provided during the resume-building process is saved or stored anywhere.
-
-
-Privacy and Security
-No Data Storage: We do not store any user data provided during the resume-building process. Your information is used solely for the purpose of generating your resume PDF.
++ **Privacy Assurance:** We prioritize user privacy and security. Rest assured that none of the data provided during the resume-building process is saved or stored anywhere.
 
 
-Support
+**Privacy and Security**
++ **No Data Storage:** We do not store any user data provided during the resume-building process. Your information is used solely for the purpose of generating your resume PDF.
+
+
+**Support**
 If you encounter any issues or have questions regarding the Resume Builder, please don't hesitate to reach out to me for assistance. 
 
 Thank you for using our Resume Builder! We hope it helps you land your dream job.
