@@ -24,12 +24,12 @@ Welcome to my Resume Builder! This tool allows users to easily create a professi
 
 
 **Privacy and Security**
-+ **No Data Storage:** We do not store any user data provided during the resume-building process. Your information is used solely for the purpose of generating your resume PDF.
++ **No Data Storage:** I do not store any user data provided during the resume-building process. Your information is used solely for the purpose of generating your resume PDF.
 
 
 **Support**
 If you encounter any issues or have questions regarding the Resume Builder, please don't hesitate to reach out to me for assistance. 
 
-Thank you for using our Resume Builder! We hope it helps you land your dream job.
+Thank you for using my Resume Builder! I hope it helps you land your dream job.
 
 https://rd9437.github.io/resume_builder/
